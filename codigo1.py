@@ -1,1 +1,1 @@
-print("Hola Mundo desde caracteristicas")
+print("Hola Mundo!")
